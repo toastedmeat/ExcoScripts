@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ToastyPestExco:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToastyPestExco_jar</output-path>
+    <root id="archive" name="ToastyPestExco.jar">
+      <element id="module-output" name="ToastyPestExco" />
+    </root>
+  </artifact>
+</component>
